@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aknahin
 - 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently learning Python and Machine learning
+- 💼 I'm currently working as a freelance front-end developer
 - 💞️ I’m looking to collaborate on ReactJS Frontend Development
 - 📫 How to reach me <a html="mailto:asrafuzzamankhannahin@gmail.com">asrafuzzamankhannahin@gmail.com</a>
 
